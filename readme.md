@@ -15,3 +15,5 @@ Please follow the following steps to run the program:
   in the appropriate directory
 - The output of the RLC circuit will be saved in "RLC_log.csv", and the output
   of the Oscillator circuit will be saved in "osc_log.csv"
+
+"analysis.pdf" contains plots resulting from data produced by the simulation
